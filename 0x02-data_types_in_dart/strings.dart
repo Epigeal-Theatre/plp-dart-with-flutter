@@ -11,4 +11,9 @@ void main() {
   var marital_status = "single";
 
   print("My name is $name2 and I am $marital_status!");
+
+  String first_name = "Daniel";
+  String last_name = "Gallagher";
+
+  print("My full name is $first_name $last_name");
 }

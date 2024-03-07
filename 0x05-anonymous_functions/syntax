@@ -1,0 +1,4 @@
+//dart anonymous functions behave normally but simply have no name
+
+(parameters){
+ //this is the body of an anonymous function}

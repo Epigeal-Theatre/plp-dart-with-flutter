@@ -10,5 +10,5 @@ void main() {
 
   double result = calculateInterest(principal, rate, time);
   print(
-      "And the simple interest cahrged when we use arrow function is still: $result");
+      "And the simple interest charged when we use arrow function is still: $result");
 }

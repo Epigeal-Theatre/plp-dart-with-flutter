@@ -1,0 +1,3 @@
+Toyota,Corolla,Blue
+Honda,Civic,Red
+Ford,Fusion,Black
